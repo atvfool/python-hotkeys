@@ -1,0 +1,15 @@
+Button 1	funkome.png	SHIFT,A
+Button 2		CTRL,a,{PAUSE},{RELEASE},{PAUSE},BACKSPACE
+Button 3		A,b,C
+Button 4		SHIFT,b
+Button 5		32,4
+Button 6		32,4
+Button 7		32,4
+Button 8		32,4
+Button 9		32,4
+Button 10		32,4
+Button 11		32,4
+Button 12		32,4
+Button 13		32,4
+Button 14		32,4
+Button 15		32,4

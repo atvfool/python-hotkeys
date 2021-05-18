@@ -1,0 +1,5 @@
+functools
+PIL
+typing
+tkinter
+re
